@@ -15,7 +15,7 @@
       "label": "Carrières",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-carrieres.db",
+      "path": "./packs/jamue-carrieres.db",
       "entity": "Item",
       "tags": [
               "carrières"
@@ -26,7 +26,7 @@
       "label": "Compétences de Base",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-competences-base.db",
+      "path": "./packs/jamue-competences-base.db",
       "entity": "Item",
       "tags": [
               "compétence"
@@ -37,7 +37,7 @@
       "label": "Compétences Avancées",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-competences-avancees.db",
+      "path": "./packs/jamue-competences-avancees.db",
       "entity": "Item",
       "tags": [
               "compétence"
@@ -48,7 +48,7 @@
       "label": "Talents",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-talents.db",
+      "path": "./packs/jamue-talents.db",
       "entity": "Item",
       "tags": [
               "talent"
@@ -59,7 +59,7 @@
       "label": "Equipements",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-equipement.db",
+      "path": "./packs/jamue-equipement.db",
       "entity": "Item",
       "tags": [
               "equipement"
@@ -70,7 +70,7 @@
       "label": "Sorts Mineurs",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-mineurs.db",
+      "path": "./packs/jamue-sorts-mineurs.db",
       "entity": "Item",
       "tags": [
               "sort"
@@ -81,7 +81,7 @@
       "label": "Sorts d'Arcane",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-arcane.db",
+      "path": "./packs/jamue-sorts-arcane.db",
       "entity": "Item",
       "tags": [
               "sort"
@@ -92,7 +92,7 @@
       "label": "Sorts de la Bête",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-bete.db",
+      "path": "./packs/jamue-sorts-domaine-bete.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -105,7 +105,7 @@
       "label": "Sorts de Démonologie",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-demonologie.db",
+      "path": "./packs/jamue-sorts-domaine-demonologie.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -118,7 +118,7 @@
       "label": "Sorts de Lumière",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-lumiere.db",
+      "path": "./packs/jamue-sorts-domaine-lumiere.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -131,7 +131,7 @@
       "label": "Sorts de Magie Naturelle",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-magie-naturelle.db",
+      "path": "./packs/jamue-sorts-domaine-magie-naturelle.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -144,7 +144,7 @@
       "label": "Sorts de Mort",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-mort.db",
+      "path": "./packs/jamue-sorts-domaine-mort.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -157,7 +157,7 @@
       "label": "Sorts de Nécromancie",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-necromancie.db",
+      "path": "./packs/jamue-sorts-domaine-necromancie.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -170,7 +170,7 @@
       "label": "Sorts de Vie",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-vie.db",
+      "path": "./packs/jamue-sorts-domaine-vie.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -183,7 +183,7 @@
       "label": "Sorts de Nurgle",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-nurgle.db",
+      "path": "./packs/jamue-sorts-domaine-nurgle.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -196,7 +196,7 @@
       "label": "Sorts de Slaanesh",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-slaanesh.db",
+      "path": "./packs/jamue-sorts-domaine-slaanesh.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -209,7 +209,7 @@
       "label": "Sorts de Sorcellerie",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-sorcellerie.db",
+      "path": "./packs/jamue-sorts-domaine-sorcellerie.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -222,7 +222,7 @@
       "label": "Sorts de Tzeentch",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-tzeentch.db",
+      "path": "./packs/jamue-sorts-domaine-tzeentch.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -235,7 +235,7 @@
       "label": "Sorts des Cieux",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-cieux.db",
+      "path": "./packs/jamue-sorts-domaine-cieux.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -248,7 +248,7 @@
       "label": "Sorts des Ombres",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-ombres.db",
+      "path": "./packs/jamue-sorts-domaine-ombres.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -261,7 +261,7 @@
       "label": "Sorts de Feu",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-feu.db",
+      "path": "./packs/jamue-sorts-domaine-feu.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -274,7 +274,7 @@
       "label": "Sorts de Métal",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-sorts-domaine-metal.db",
+      "path": "./packs/jamue-sorts-domaine-metal.db",
       "entity": "Item",
       "tags": [
               "sort",
@@ -287,7 +287,7 @@
       "label": "Bénédictions",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-benediction.db",
+      "path": "./packs/jamue-benediction.db",
       "entity": "Item",
       "tags": [
               "bénédiction"
@@ -298,7 +298,7 @@
       "label": "Miracles d'Ulric",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-ulric.db",
+      "path": "./packs/jamue-miracles-ulric.db",
       "entity": "Item",
       "tags": [
               "miracle",
@@ -310,7 +310,7 @@
       "label": "Miracles de Manann",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-manann.db",
+      "path": "./packs/jamue-miracles-manann.db",
       "entity": "Item",
       "tags": [
               "miracle",
@@ -322,7 +322,7 @@
       "label": "Miracles de Morr",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-morr.db",
+      "path": "./packs/jamue-miracles-morr.db",
       "entity": "Item",
       "tags": [
               "miracle",
@@ -334,7 +334,7 @@
       "label": "Miracles de Myrmidia",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-myrmidia.db",
+      "path": "./packs/jamue-miracles-myrmidia.db",
       "entity": "Item",
       "tags": [
               "miracle",
@@ -346,7 +346,7 @@
       "label": "Miracles de Ranald",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-ranald.db",
+      "path": "./packs/jamue-miracles-ranald.db",
       "entity": "Item",
       "tags": [
               "miracle",
@@ -358,7 +358,7 @@
       "label": "Miracles de Rhya",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-rhya.db",
+      "path": "./packs/jamue-miracles-rhya.db",
       "entity": "Item",
       "tags": [
               "miracle",
@@ -370,7 +370,7 @@
       "label": "Miracles de Shallya",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-shallya.db",
+      "path": "./packs/jamue-miracles-shallya.db",
       "entity": "Item",
       "tags": [
               "miracle",
@@ -382,7 +382,7 @@
       "label": "Miracles de Sigmar",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-sigmar.db",
+      "path": "./packs/jamue-miracles-sigmar.db",
       "entity": "Item",
       "tags": [
               "miracle",
@@ -394,7 +394,7 @@
       "label": "Miracles de Taal",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-taal.db",
+      "path": "./packs/jamue-miracles-taal.db",
       "entity": "Item",
       "tags": [
              "miracle",
@@ -406,7 +406,7 @@
       "label": "Miracles de Verena",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-miracles-verena.db",
+      "path": "./packs/jamue-miracles-verena.db",
       "entity": "Item",
       "tags": [
              "miracle",
@@ -418,7 +418,7 @@
       "label": "Tests étendus",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-tests-etendus.db",
+      "path": "./packs/jamue-tests-etendus.db",
       "entity": "Item",
       "tags": [
              "test",
@@ -430,7 +430,7 @@
       "label": "Traits de créatures",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-traits.db",
+      "path": "./packs/jamue-traits.db",
       "entity": "Item",
       "tags": [
              "trait"
@@ -441,7 +441,7 @@
       "label": "Critiques",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-critiques.db",
+      "path": "./packs/jamue-critiques.db",
       "entity": "Item",
       "tags": [
              "critique"
@@ -452,7 +452,7 @@
       "label": "Etats",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-etats.db",
+      "path": "./packs/jamue-etats.db",
       "entity": "Item",
       "tags": [
              "état"
@@ -463,7 +463,7 @@
       "label": "Maladies",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-maladies.db",
+      "path": "./packs/jamue-maladies.db",
       "entity": "Item",
       "tags": [
              "maladie"
@@ -474,7 +474,7 @@
       "label": "Traumatismes",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-traumatismes.db",
+      "path": "./packs/jamue-traumatismes.db",
       "entity": "Item",
       "tags": [
              "traumatisme"
@@ -485,7 +485,7 @@
       "label": "Symptômes de maladies",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-symptome-maladies.db",
+      "path": "./packs/jamue-symptome-maladies.db",
       "entity": "Item",
       "tags": [
              "symptôme"
@@ -496,7 +496,7 @@
       "label": "Mutations Mentales",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-mutations-mentales.db",
+      "path": "./packs/jamue-mutations-mentales.db",
       "entity": "Item",
       "tags": [
              "mutation"
@@ -507,7 +507,7 @@
       "label": "Mutations Physiques",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-mutations-physiques.db",
+      "path": "./packs/jamue-mutations-physiques.db",
       "entity": "Item",
       "tags": [
              "mutation"
@@ -518,7 +518,7 @@
       "label": "Psychologie",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-psychologie.db",
+      "path": "./packs/jamue-psychologie.db",
       "entity": "Item",
       "tags": [
              "psychologie"
@@ -529,7 +529,7 @@
       "label": "Bestiaire",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-bestiaire.db",
+      "path": "./packs/jamue-bestiaire.db",
       "entity": "Actor",
       "tags": [
               "bestiaire"
@@ -540,7 +540,7 @@
       "label": "PJ",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-pj.db",
+      "path": "./packs/jamue-pj.db",
       "entity": "Actor",
       "tags": [
               "pj"
@@ -551,7 +551,7 @@
       "label": "PNJ Nommés",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-pnj-nommes.db",
+      "path": "./packs/jamue-pnj-nommes.db",
       "entity": "Actor",
       "tags": [
               "pnj"
@@ -562,7 +562,7 @@
       "label": "PNJ Lambda",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-pnj-lambda.db",
+      "path": "./packs/jamue-pnj-lambda.db",
       "entity": "Actor",
       "tags": [
               "pj"
@@ -573,7 +573,7 @@
       "label": "Véhicules",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-vehicules.db",
+      "path": "./packs/jamue-vehicules.db",
       "entity": "Actor",
       "tags": [
               "vehicule"
@@ -584,7 +584,7 @@
       "label": "Eléments de Décor",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-elements-decor.db",
+      "path": "./packs/jamue-elements-decor.db",
       "entity": "Actor",
       "tags": [
               "décor"
@@ -595,7 +595,7 @@
       "label": "Règles",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-journal-regles.db",
+      "path": "./packs/jamue-journal-regles.db",
       "entity": "JournalEntry",
       "tags": [
               "régle"
@@ -606,7 +606,7 @@
       "label": "Création de Personnage",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-journal-creation-perso.db",
+      "path": "./packs/jamue-journal-creation-perso.db",
       "entity": "JournalEntry",
       "tags": [
               "personnage"
@@ -617,7 +617,7 @@
       "label": "Background",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-journal-background.db",
+      "path": "./packs/jamue-journal-background.db",
       "entity": "JournalEntry",
       "tags": [
               "background"
@@ -628,7 +628,7 @@
       "label": "Aide pour Meneuse",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-journal-aide-meneuse.db",
+      "path": "./packs/jamue-journal-aide-meneuse.db",
       "entity": "JournalEntry",
       "tags": [
               "meneuse"
@@ -639,7 +639,7 @@
       "label": "Tables Aléatoires",
       "system": "wfrp4e",
       "module": "jamue-warhammer",
-      "path": "packs/jamue-tables.db",
+      "path": "./packs/jamue-tables.db",
       "entity": "Rolltable",
       "tags": [
               "table"
