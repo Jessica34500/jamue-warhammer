@@ -1,0 +1,649 @@
+{
+  "name": "jamue-warhammer",
+  "title": "Jamue Warhammer v4 FR",
+  "description": "Petit module d'exportation de librairie fait par une adepte française de ce jeu.",
+  "author": "Jessica (Jamue)",
+  "systems": [
+      "wfrp4e"
+  ],
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7",
+  "compatibleCoreVersion": "0.7",
+  "packs": [
+    {
+      "name": "jamue-carrieres",
+      "label": "Carrières",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-carrieres.db",
+      "entity": "Item",
+      "tags": [
+              "carrières"
+          ]
+    },
+    {
+      "name": "jamue-competences-base",
+      "label": "Compétences de Base",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-competences-base.db",
+      "entity": "Item",
+      "tags": [
+              "compétence"
+          ]
+    },
+    {
+      "name": "jamue-competences-avancees",
+      "label": "Compétences Avancées",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-competences-avancees.db",
+      "entity": "Item",
+      "tags": [
+              "compétence"
+          ]
+    },
+    {
+      "name": "jamue-talents",
+      "label": "Talents",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-talents.db",
+      "entity": "Item",
+      "tags": [
+              "talent"
+          ]
+    },
+    {
+      "name": "jamue-equipement",
+      "label": "Equipements",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-equipement.db",
+      "entity": "Item",
+      "tags": [
+              "equipement"
+          ]
+    },
+    {
+      "name": "jamue-sorts-mineurs",
+      "label": "Sorts Mineurs",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-mineurs.db",
+      "entity": "Item",
+      "tags": [
+              "sort"
+          ]
+    },
+    {
+      "name": "jamue-sorts-arcane",
+      "label": "Sorts d'Arcane",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-arcane.db",
+      "entity": "Item",
+      "tags": [
+              "sort"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-bete",
+      "label": "Sorts de la Bête",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-bete.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "bête"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-demonologie",
+      "label": "Sorts de Démonologie",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-demonologie.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "démonologie"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-lumiere",
+      "label": "Sorts de Lumière",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-lumiere.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "lumière"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-magie-naturelle",
+      "label": "Sorts de Magie Naturelle",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-magie-naturelle.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "nature"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-mort",
+      "label": "Sorts de Mort",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-mort.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "mort"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-necromancie",
+      "label": "Sorts de Nécromancie",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-necromancie.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "nécromancie"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-vie",
+      "label": "Sorts de Vie",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-vie.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "vie"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-nurgle",
+      "label": "Sorts de Nurgle",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-nurgle.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "nurgle"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-slaanesh",
+      "label": "Sorts de Slaanesh",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-slaanesh.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "slaanesh"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-sorcellerie",
+      "label": "Sorts de Sorcellerie",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-sorcellerie.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "sorcellerie"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-tzeentch",
+      "label": "Sorts de Tzeentch",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-tzeentch.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "tzeentch"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-cieux",
+      "label": "Sorts des Cieux",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-cieux.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "cieux"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-ombres",
+      "label": "Sorts des Ombres",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-ombres.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "ombre"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-feu",
+      "label": "Sorts de Feu",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-feu.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "feu"
+          ]
+    },
+    {
+      "name": "jamue-sorts-domaine-metal",
+      "label": "Sorts de Métal",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-sorts-domaine-metal.db",
+      "entity": "Item",
+      "tags": [
+              "sort",
+              "domaine",
+              "métal"
+          ]
+    },
+    {
+      "name": "jamue-benediction",
+      "label": "Bénédictions",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-benediction.db",
+      "entity": "Item",
+      "tags": [
+              "bénédiction"
+          ]
+    },
+    {
+      "name": "jamue-miracles-ulric",
+      "label": "Miracles d'Ulric",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-ulric.db",
+      "entity": "Item",
+      "tags": [
+              "miracle",
+              "ulric"
+          ]
+    },
+    {
+      "name": "jamue-miracles-manann",
+      "label": "Miracles de Manann",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-manann.db",
+      "entity": "Item",
+      "tags": [
+              "miracle",
+              "manann"
+          ]
+    },
+    {
+      "name": "jamue-miracles-morr",
+      "label": "Miracles de Morr",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-morr.db",
+      "entity": "Item",
+      "tags": [
+              "miracle",
+              "morr"
+          ]
+    },
+    {
+      "name": "jamue-miracles-myrmidia",
+      "label": "Miracles de Myrmidia",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-myrmidia.db",
+      "entity": "Item",
+      "tags": [
+              "miracle",
+              "myrmidia"
+          ]
+    },
+    {
+      "name": "jamue-miracles-ranald",
+      "label": "Miracles de Ranald",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-ranald.db",
+      "entity": "Item",
+      "tags": [
+              "miracle",
+              "ranald"
+          ]
+    },
+    {
+      "name": "jamue-miracles-rhya",
+      "label": "Miracles de Rhya",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-rhya.db",
+      "entity": "Item",
+      "tags": [
+              "miracle",
+              "rhya"
+          ]
+    },
+    {
+      "name": "jamue-miracles-shallya",
+      "label": "Miracles de Shallya",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-shallya.db",
+      "entity": "Item",
+      "tags": [
+              "miracle",
+              "shallya"
+          ]
+    },
+    {
+      "name": "jamue-miracles-sigmar",
+      "label": "Miracles de Sigmar",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-sigmar.db",
+      "entity": "Item",
+      "tags": [
+              "miracle",
+              "sigmar"
+          ]
+    },
+    {
+      "name": "jamue-miracles-taal",
+      "label": "Miracles de Taal",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-taal.db",
+      "entity": "Item",
+      "tags": [
+             "miracle",
+              "taal"
+          ]
+    },
+    {
+      "name": "jamue-miracles-verena",
+      "label": "Miracles de Verena",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-miracles-verena.db",
+      "entity": "Item",
+      "tags": [
+             "miracle",
+              "verena"
+          ]
+    },
+    {
+      "name": "jamue-tests-etendus",
+      "label": "Tests étendus",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-tests-etendus.db",
+      "entity": "Item",
+      "tags": [
+             "test",
+              "étendu"
+          ]
+    },
+    {
+      "name": "jamue-traits",
+      "label": "Traits de créatures",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-traits.db",
+      "entity": "Item",
+      "tags": [
+             "trait"
+          ]
+    },
+    {
+      "name": "jamue-critiques",
+      "label": "Critiques",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-critiques.db",
+      "entity": "Item",
+      "tags": [
+             "critique"
+          ]
+    },
+    {
+      "name": "jamue-etats",
+      "label": "Etats",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-etats.db",
+      "entity": "Item",
+      "tags": [
+             "état"
+          ]
+    },
+    {
+      "name": "jamue-maladies",
+      "label": "Maladies",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-maladies.db",
+      "entity": "Item",
+      "tags": [
+             "maladie"
+          ]
+    },
+    {
+      "name": "jamue-traumatismes",
+      "label": "Traumatismes",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-traumatismes.db",
+      "entity": "Item",
+      "tags": [
+             "traumatisme"
+          ]
+    },
+    {
+      "name": "jamue-symptome-maladies",
+      "label": "Symptômes de maladies",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-symptome-maladies.db",
+      "entity": "Item",
+      "tags": [
+             "symptôme"
+          ]
+    },
+    {
+      "name": "jamue-mutations-mentales",
+      "label": "Mutations Mentales",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-mutations-mentales.db",
+      "entity": "Item",
+      "tags": [
+             "mutation"
+          ]
+    },
+    {
+      "name": "jamue-mutations-physiques",
+      "label": "Mutations Physiques",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-mutations-physiques.db",
+      "entity": "Item",
+      "tags": [
+             "mutation"
+          ]
+    },
+    {
+      "name": "jamue-psychologie",
+      "label": "Psychologie",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-psychologie.db",
+      "entity": "Item",
+      "tags": [
+             "psychologie"
+          ]
+    },
+    {
+      "name": "jamue-bestiaire",
+      "label": "Bestiaire",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-bestiaire.db",
+      "entity": "Actor",
+      "tags": [
+              "bestiaire"
+          ]
+    },
+    {
+      "name": "jamue-pj",
+      "label": "PJ",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-pj.db",
+      "entity": "Actor",
+      "tags": [
+              "pj"
+          ]
+    },
+    {
+      "name": "jamue-pnj-nommes",
+      "label": "PNJ Nommés",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-pnj-nommes.db",
+      "entity": "Actor",
+      "tags": [
+              "pnj"
+          ]
+    },
+    {
+      "name": "jamue-pnj-lambda",
+      "label": "PNJ Lambda",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-pnj-lambda.db",
+      "entity": "Actor",
+      "tags": [
+              "pj"
+          ]
+    },
+    {
+      "name": "jamue-vehicules",
+      "label": "Véhicules",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-vehicules.db",
+      "entity": "Actor",
+      "tags": [
+              "vehicule"
+          ]
+    },
+    {
+      "name": "jamue-elements-decor",
+      "label": "Eléments de Décor",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-elements-decor.db",
+      "entity": "Actor",
+      "tags": [
+              "décor"
+          ]
+    },
+    {
+      "name": "jamue-journal-regles",
+      "label": "Règles",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-journal-regles.db",
+      "entity": "JournalEntry",
+      "tags": [
+              "régle"
+          ]
+    },
+    {
+      "name": "jamue-journal_creation-perso",
+      "label": "Création de Personnage",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-journal-creation-perso.db",
+      "entity": "JournalEntry",
+      "tags": [
+              "personnage"
+          ]
+    },
+    {
+      "name": "jamue-journal-background",
+      "label": "Background",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-journal-background.db",
+      "entity": "JournalEntry",
+      "tags": [
+              "background"
+          ]
+    },
+    {
+      "name": "jamue-journal-aide-meneuse",
+      "label": "Aide pour Meneuse",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-journal-aide-meneuse.db",
+      "entity": "JournalEntry",
+      "tags": [
+              "meneuse"
+          ]
+    },
+    {
+      "name": "jamue-tables",
+      "label": "Tables Aléatoires",
+      "system": "wfrp4e",
+      "module": "jamue-warhammer",
+      "path": "packs/jamue-tables.db",
+      "entity": "Rolltable",
+      "tags": [
+              "table"
+          ]
+    },
+  ],
+}
